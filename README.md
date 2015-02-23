@@ -1,5 +1,12 @@
 # Introduction
+March - July 2015
+
+Welcome, this is an ongoing project record for a university course named collaborative product design principles and practices.
+
+Github integration: https://github.com/coursemdetw/2015cd.git 
+
 gitbook 與 github 倉儲的資料同步設定
+
 * 先建立一個 github 上的 repository
 * 在 gitbook 建立一本電子書專案
 * 在 gitbook 中的 account setting 中設定與此電子書對應的 github 帳號
