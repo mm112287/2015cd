@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-   * Q&A
+   * [Q&A](q&a.md)
 
