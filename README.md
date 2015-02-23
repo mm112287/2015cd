@@ -6,6 +6,8 @@ Welcome, this is an ongoing project record for a university course named collabo
 
 Github integration: https://github.com/coursemdetw/2015cd.git 
 
+course website: http://cd-cadp.rhcloud.com
+
 
 
 
