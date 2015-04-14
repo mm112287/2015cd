@@ -15,9 +15,11 @@
 <v t="2014fall.20141212095015.1786"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
 <v t="2014fall.20141212095015.1774" a="E"><vh>@path ./</vh>
-<v t="2014fall.20141212095015.1775" a="E"
+<v t="2014fall.20141212095015.1775"
 expanded="2014fall.20141212095015.1777,"><vh>@file wsgi.py</vh></v>
 <v t="2014fall.20141212095015.1780"><vh>@edit setup.py</vh></v>
+<v t="amd.20150414211702.1"><vh>@edit SUMMARY.md</vh></v>
+<v t="amd.20150414211718.1"><vh>@edit _上機考試.md</vh></v>
 </v>
 </vnodes>
 <tnodes>
