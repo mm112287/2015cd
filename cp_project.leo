@@ -369,6 +369,11 @@ def doCheck(self, guess=None):
 當使用中文檔案作為 md 檔案檔名時, 可能會在解決衝突時造成 git 指令區檔案辨識上的困難, 該如何處理此一問題?
 
 全部改成英文檔名
-或者在中文檔名前加上唯一的數字或辨識符號?</t>
+或者在中文檔名前加上唯一的數字或辨識符號?
+
+相關問題討論:
+http://stackoverflow.com/questions/4144417/how-to-handle-asian-characters-in-file-names-in-git-on-os-x
+
+</t>
 </tnodes>
 </leo_file>
