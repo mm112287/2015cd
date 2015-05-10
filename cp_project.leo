@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Created by Leo: http://leoeditor.com/leo_toc.html -->
-<?xml-stylesheet ekr_test?>
+<?xml-stylesheet ekr_test ?>
 <leo_file xmlns:leo="http://leoeditor.com/namespaces/leo-python-editor/1.1" >
 <leo_header file_format="2" tnodes="0" max_tnode_index="0" clone_windows="0"/>
 <globals body_outline_ratio="0.5" body_secondary_ratio="0.5">
@@ -18,8 +18,18 @@
 <v t="2014fall.20141212095015.1775"
 expanded="2014fall.20141212095015.1777,"><vh>@file wsgi.py</vh></v>
 <v t="2014fall.20141212095015.1780"><vh>@edit setup.py</vh></v>
+<v t="amd.20150510200800.1" a="E"><vh>@path report</vh>
 <v t="amd.20150414211702.1"><vh>@edit SUMMARY.md</vh></v>
+<v t="amd.20150510200958.1"><vh>@edit introduction.md</vh></v>
+<v t="amd.20150510202649.1"><vh>@edit _協同的背景.md</vh></v>
+<v t="amd.20150510203011.1"><vh>@edit _知識的創建.md</vh></v>
+<v t="amd.20150510203026.1"><vh>@edit _協同產品設計.md</vh></v>
+<v t="amd.20150510203039.1"><vh>@edit _協同任務執行.md</vh></v>
+<v t="amd.20150510203054.1"><vh>@edit _協同工具特性.md</vh></v>
+<v t="amd.20150510201310.1"><vh>@edit _建立分組協同報告.md</vh></v>
+<v t="amd.20150510201431.1"><vh>@edit _新產品開發流程.md</vh></v>
 <v t="amd.20150414211718.1"><vh>@edit _上機考試.md</vh></v>
+</v>
 </v>
 </vnodes>
 <tnodes>
@@ -118,5 +128,8 @@ QLineEdit#editorLabel {
 }</t>
 <t tx="2014fall.20141212095015.1786">horizontal: body pane to the left
 vertical: body pane on the botton</t>
+<t tx="amd.20150510200800.1">先根據目前既有章節, 定好各節點架構
+
+先測試平鋪的檔案節點架構</t>
 </tnodes>
 </leo_file>
