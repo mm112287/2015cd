@@ -15,7 +15,7 @@
 <v t="2014fall.20141212095015.1786"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
 <v t="2014fall.20141212095015.1774" a="E"><vh>@path ./</vh>
-<v t="2014fall.20141212095015.1775" a="E"><vh>@clean wsgi.py</vh>
+<v t="2014fall.20141212095015.1775"><vh>@clean wsgi.py</vh>
 <v t="2014fall.20141212095015.1776"><vh>&lt;&lt;declarations&gt;&gt; (wsgi)</vh></v>
 <v t="2014fall.20141212095015.1777" a="E"><vh>class Hello</vh>
 <v t="2014fall.20141212095015.2004"><vh>__init__</vh></v>
@@ -38,6 +38,7 @@
 <v t="amd.20150510201310.1"><vh>@edit _建立分組協同報告.md</vh></v>
 <v t="amd.20150510201431.1"><vh>@edit _新產品開發流程.md</vh></v>
 <v t="amd.20150414211718.1"><vh>@edit _上機考試.md</vh></v>
+<v t="amd.20150510205706.1"><vh>@edit _指令操作.md</vh></v>
 </v>
 </v>
 </vnodes>
@@ -361,6 +362,13 @@ def doCheck(self, guess=None):
 </t>
 <t tx="amd.20150510200800.1">先根據目前既有章節, 定好各節點架構
 
-先測試平鋪的檔案節點架構</t>
+先測試平鋪的檔案節點架構
+
+請注意:
+
+當使用中文檔案作為 md 檔案檔名時, 可能會在解決衝突時造成 git 指令區檔案辨識上的困難, 該如何處理此一問題?
+
+全部改成英文檔名
+或者在中文檔名前加上唯一的數字或辨識符號?</t>
 </tnodes>
 </leo_file>
