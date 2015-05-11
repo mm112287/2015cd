@@ -28,6 +28,7 @@
    * [2015scrum 操作流程](report/2015scrum 操作流程.md)
    * [2015scrum 示範影片](report/2015scrum 示範影片.md)
    * [2015scrum 結果討論](report/2015scrum 結果討論.md)
+* [2015 期中報告](report/2015midterm.md)
 * [2015midterm 專案](report/2015midterm 專案.md)
    * [2015midterm 題目](report/2015midterm 題目.md)
    * [2015midterm 操作流程](report/2015midterm 操作流程.md)
