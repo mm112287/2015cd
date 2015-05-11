@@ -30,7 +30,7 @@
    * 2015scrum 結果討論
 * [2015midterm 專案](report/2015midterm 專案.md)
    * [2015midterm 題目](report/2015midterm 題目.md)
-   * 2015midterm 操作流程
+   * [2015midterm 操作流程](report/2015midterm 操作流程.md)
 * [參考資料](report/_參考資料.md)
 * [附錄](report/_附錄.md)
 
