@@ -1,6 +1,5 @@
 # Summary
 
-* [introduction](README.md)
 * [Introduction](report/introduction.md)
    * [協同的背景](report/_協同的背景.md)
    * [知識的創建](report/_知識的創建.md)
