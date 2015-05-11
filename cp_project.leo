@@ -15,6 +15,8 @@
 <v t="2014fall.20141212095015.1786"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
 <v t="2014fall.20141212095015.1774" a="E"><vh>@path ./</vh>
+<v t="2014fall.20141212095015.1780"><vh>@edit setup.py</vh></v>
+<v t="amd.20150511085257.1"><vh>@edit SUMMARY.md</vh></v>
 <v t="2014fall.20141212095015.1775"><vh>@clean wsgi.py</vh>
 <v t="2014fall.20141212095015.1776"><vh>&lt;&lt;declarations&gt;&gt; (wsgi)</vh></v>
 <v t="2014fall.20141212095015.1777" a="E"><vh>class Hello</vh>
@@ -26,9 +28,7 @@
 <v t="2014fall.20141215194146.1789"><vh>guessform</vh></v>
 </v>
 </v>
-<v t="2014fall.20141212095015.1780"><vh>@edit setup.py</vh></v>
 <v t="amd.20150510200800.1" a="E"><vh>@path report</vh>
-<v t="amd.20150414211702.1"><vh>@edit SUMMARY.md</vh></v>
 <v t="amd.20150510200958.1"><vh>@edit introduction.md</vh></v>
 <v t="amd.20150510202649.1"><vh>@edit _協同的背景.md</vh></v>
 <v t="amd.20150510203011.1"><vh>@edit _知識的創建.md</vh></v>
@@ -373,7 +373,12 @@ def doCheck(self, guess=None):
 或者在中文檔名前加上唯一的數字或辨識符號?
 
 相關問題討論:
+
 http://stackoverflow.com/questions/4144417/how-to-handle-asian-characters-in-file-names-in-git-on-os-x
+
+在 Linux 上, 設定 git config --global core.quotepath false
+
+就可以正確顯示中文檔案名稱, 必須在 Windows 測試是否一樣可行
 
 </t>
 </tnodes>
